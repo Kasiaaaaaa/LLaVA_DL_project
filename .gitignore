@@ -37,3 +37,9 @@ serve_images/
 *.sif
 *.tar
 
+
+# Container artifacts
+*.tar
+*.tar.gz
+*.sif
+
